@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Secular One', sans-serif;
+    font-size: 19px;
+}
+
+body{
+    display: flex;
+    background-color: black;
+    padding: 250px 95px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+        
+}
+
+.parede2 {
+    background-color: rgb(15, 36, 54);
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    border-radius: 30px;
+    padding: 50px 40px ;
+    position: fixed;
+    
+}
+
+.parede {
+    background-color: rgb(17, 17, 26);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 75px;
+    padding-bottom: 19px;
+    margin-top: 40vh;
+    position: fixed;
+    
+}
+
+.line0 button {
+    background-color: rgb(47, 73, 102);
+    margin: 2px;
+    /* display: flex; */
+    border-radius: 18px;
+    padding: 25px; 
+
+}
+
+.line1 button {
+    margin: 2px 2px;
+    padding: 25px;
+    border-radius: 18px;
+    background-color: rgb(47, 73, 102);
+}
+
+.line2 button {
+    margin: 2px;
+    padding: 25px;
+    border-radius: 18px;
+    background-color: rgb(47, 73, 102);
+}
+
+.line3 button {
+    margin: 2px;
+    padding: 25px;
+    margin-left: 2px;
+    border-radius: 18px;
+    background-color: rgb(47, 73, 102);
+} 
+
+.line4 button {
+    margin: 2px;
+    padding: 25px;
+    border-radius: 18px;
+    background-color: rgb(47, 73, 102);
+}
+
+.igual {
+    cursor: pointer;
+    margin: 2px;
+    padding: 25px;
+    border-radius: 18px;
+    background-color: #06303C;
+    border: 5px solid;
+    height: 88px;
+    width: 210px;
+    
+    
+}
+
+.btn-primary {
+    cursor: pointer;
+    border: 3px solid;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.btn-primary1 {
+    cursor: pointer;
+    border: 5px solid;
+}
+
+.btn-primary1:hover {
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.A {
+    margin: 2px;
+    padding: 25px;
+    border-radius: 18px;
+    background-color: #06303C;
+    border: 5px solid;
+    height: 88px;
+    width: 210px;
+    cursor: pointer;
+}
+
+.line4:hover{
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.line3:hover {
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.line2:hover {
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.line1:hover{
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+.line0:hover{
+    background-color: black;
+    color: rgb(47, 73, 102);
+}
+
+
+
